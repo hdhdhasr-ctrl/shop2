@@ -85,7 +85,7 @@ export default function FinalCTA() {
           </div>
 
           <p className="relative mt-6 text-xs opacity-50">
-            Free worldwide shipping · 30-day money-back · Secure checkout
+            Free worldwide shipping · Secure checkout
           </p>
         </motion.div>
       </div>
