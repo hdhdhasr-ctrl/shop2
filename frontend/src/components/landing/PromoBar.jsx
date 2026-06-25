@@ -6,7 +6,6 @@ const ITEMS = [
   { icon: Truck, text: 'FREE WORLDWIDE SHIPPING ON ORDERS OVER $25' },
   { icon: ShieldCheck, text: '25% LAUNCH DISCOUNT — LIMITED TIME' },
   { icon: Lock, text: 'SECURE CHECKOUT VIA SHOPIFY' },
-  { icon: Undo2, text: '30-DAY MONEY-BACK GUARANTEE' },
 ];
 
 export default function PromoBar() {
